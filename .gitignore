@@ -1,0 +1,24 @@
+# Folder Inti Unity (JANGAN DIHAPUS DARI SINI)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Folder Sampah/Cache yang terlihat di gambarmu
+.utmp/
+.vscode/
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# File Build & IDE (Gk perlu diupload)
+*.apk
+*.unitypackage
+*.csproj
+*.sln
+*.slnx
+# Abaikan file paket instalasi besar
+*.tgz
+*.tar.gz

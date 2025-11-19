@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec3f0b72d1cf28a499e3bf821ff80dff
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287608
+  packageName: 'Sign-In with any platform / Play ID [FREE]'
+  packageVersion: 2.2
+  assetPath: Assets/Plugins/Android/AndroidManifest.xml
+  uploadId: 804772
