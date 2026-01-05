@@ -9,7 +9,6 @@ public class SimpleBarcodeScanner : MonoBehaviour
     {
         mBarcodeBehaviour = GetComponent<BarcodeBehaviour>();
     }
-
     // Update is called once per frame
     void Update()
     {
