@@ -1,6 +1,7 @@
 using UnityEngine;
 using Vuforia;
 
+
 public class SimpleBarcodeScanner : MonoBehaviour
 {
     public TMPro.TextMeshProUGUI barcodeAsText;
